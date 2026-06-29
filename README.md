@@ -14,8 +14,14 @@ Hi, I'm Mayank singh bisht👋
 
 👨‍💼 quiz application https://github.com/mayankbisht1511-commits/quiz-Application
 
-📫 Contact
+📫 Contact Me
 
 💼 LinkedIn https://www.linkedin.com/in/mayank-singh-bisht-141851367
 
 📧 Email mayankbisht1511@gmail.com
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
