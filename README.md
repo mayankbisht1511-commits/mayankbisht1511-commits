@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Mayank singh bisht👋
+🎓 Final-year BCA Student | 
 
-<!--
-**mayankbisht1511-commits/mayankbisht1511-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about Artificial Intelligence,and Data Science.
 
-Here are some ideas to get you started:
+🌱 Currently learning Full Stack Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always eager to learn new technologies and expand my knowledge through hands-on projects.
+
+🚀 Excited to build practical applications, gain real-world experience, and grow as a developer.
+
+🚀 Live Projects
+🧠 Data analysis and excel dashboard 
+👨‍💼 quiz application 
+
+📫 Contact
+
+💼 LinkedIn https://www.linkedin.com/in/mayank-singh-bisht-141851367
+
+📧 Email mayankbisht1511@gmail.com
