@@ -10,8 +10,9 @@ Hi, I'm Mayank singh bisht👋
 🚀 Excited to build practical applications, gain real-world experience, and grow as a developer.
 
 🚀 Live Projects
-🧠 Data analysis and excel dashboard 
-👨‍💼 quiz application 
+🧠 Data analysis and excel dashboard  https://github.com/mayankbisht1511-commits/DATA-ANALYSIS-AND-EXCEL-DASHBOARD
+
+👨‍💼 quiz application https://github.com/mayankbisht1511-commits/quiz-Application
 
 📫 Contact
 
