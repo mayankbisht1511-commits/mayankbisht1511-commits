@@ -12,8 +12,7 @@ Hi, I'm Mayank singh bisht👋
 🚀 Live Projects
 🧠 Data analysis and excel dashboard  https://github.com/mayankbisht1511-commits/DATA-ANALYSIS-AND-EXCEL-DASHBOARD
 
-👨‍💼 quiz application https://github.com/mayankbisht1511-commits/quiz-Application
-
+👨‍💼 quiz application   https://69e8cfd4aa49f31cca46a65f--eclectic-dolphin-5b1237.netlify.app/
 📫 Contact Me
 
 💼 LinkedIn https://www.linkedin.com/in/mayank-singh-bisht-141851367
